@@ -1,6 +1,6 @@
-## Soft <a id="soft">
+## <a id="soft">
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=WELCOME TO LUNA's ZONE&fontSize=40&animation=twinkling)
 
 <div><h2>📚 STACKS</h2></div>
 
