@@ -32,5 +32,5 @@
 <div><h2>🐱 About Me</h2></div>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lunitaropez@gmail.com)](lunitaropez@gmail.com)
-![GitLab](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)(https://github.com/icanbewhatever/FullStackStudy)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/icanbewhatever/FullStackStudy)
 
