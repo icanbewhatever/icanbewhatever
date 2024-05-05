@@ -1,6 +1,6 @@
 ## <a id="soft">
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=끊임없이%20노력하는%20개발자%20이현주%20&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=I'll%20keep%20pushing%20forward%20&fontSize=40&animation=twinkling)
 <div><h2>📚 STACKS</h2></div>
 
 <div>
